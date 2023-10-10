@@ -159,6 +159,6 @@
     </div>
     </div>
     </div>
-    <script src="js/mobile.js"></script>
+    <script src="https://felipemirandaoficial.github.io/php-conversorbinario/api/js/mobile.js"></script>
 </body>
 </html>
