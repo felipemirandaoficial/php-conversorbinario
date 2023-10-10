@@ -2,10 +2,10 @@
 <html>
 <head>
     <title>Calculadora de binarios</title>
-	<link rel="shortcut icon" href="api/ifms.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://felipemirandaoficial.github.io/php-conversorbinario/api/ifms.ico" type="image/x-icon">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="api/css/style.css">
+    <link rel="stylesheet" href="https://felipemirandaoficial.github.io/php-conversorbinario/api/css/style.css">
 	<style>
         body {
             font-family: Arial, sans-serif;
