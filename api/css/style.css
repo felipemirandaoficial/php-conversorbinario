@@ -1,0 +1,90 @@
+.minhaclasse{
+        background-image: url('../../back/aleatorio/GusaPro2.jpg');
+		background-repeat: no-repeat;		
+		background-size: cover;
+        background-attachment: fixed;
+}
+body{ 
+	text-align:center;
+	align-items: center;
+}
+p{
+    color: white;
+}
+strong{
+    color: rgb(24, 199, 24);
+
+}
+table{
+    align-items: center;
+    text-align: center;
+    width: 35%;
+    height: 35%;
+    margin:auto;
+    margin-top: 5%;
+}
+.table_receita{
+    align-items: center;
+    text-align: center;
+    min-width: 450px;
+    width: 35%;
+    height: 35%;
+    margin:auto;
+    margin-top: 5%;
+    background-color: white;
+}
+
+button{
+    width: auto;
+    height: auto;
+    background-color: white;
+    color: green;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 2%;
+    cursor: pointer;
+}
+button:hover{
+    border: 2px solid rgb(51, 189, 16);
+}
+.bt_select{
+    min-width: 120px;
+    min-height: 120px;
+    width: auto;
+    height: auto;
+    background-color: white;
+    color: green;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 2%;
+    cursor: pointer;
+}
+.bt_voltar{
+    background-color: white;
+    padding: 15px;
+    font-size: 18px;
+    color: green;
+}
+
+h3{
+    color: white;
+}
+h5{
+	color: white;
+}
+span{
+    color: white;
+}
+.table_voltar{
+    padding: 10px;
+    margin: 5px;
+
+}
+#juvenal{
+	margin: 15px; 
+	
+}
+#test{
+	
+	color: white;
+}
