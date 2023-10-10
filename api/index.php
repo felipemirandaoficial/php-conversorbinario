@@ -2,10 +2,10 @@
 <html>
 <head>
     <title>Calculadora de binarios</title>
-	<link rel="shortcut icon" href="ifms.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="api/ifms.ico" type="image/x-icon">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="api/css/style.css">
 	<style>
         body {
             font-family: Arial, sans-serif;
@@ -107,7 +107,7 @@
 
     <table>
     <tr>
-        <form action="index.php" method="get">
+        <form action="https://ifms.vercel.app/algoritmos/" method="get">
             <button class='bt_voltar' type='submit'>Voltar</button>
         </form>
     </tr>
