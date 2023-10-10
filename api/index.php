@@ -20,6 +20,7 @@
         h2 {
             text-align: center;
             margin: 20px 0;
+	    color:white;
         }
 
         table {
